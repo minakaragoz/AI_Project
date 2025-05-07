@@ -59,7 +59,6 @@ def run_tavern_encounter():
 
     try:
         response = chat(model='llama3', messages=messages, options={"temperature": 0.8})
-        print("[DEBUG] Raw response:", response)
 
         content = response.get("message", {}).get("content", None)
         if content:
@@ -84,7 +83,6 @@ def run_tavern_encounter():
 
         try:
             response = chat(model='llama3', messages=messages, options={"temperature": 0.8})
-            print("[DEBUG] Raw response:", response)
 
             content = response.get("message", {}).get("content", None)
             if content:
