@@ -1,0 +1,9 @@
+ollama
+chromadb
+diffusers
+transformers
+torch
+numpy==1.26.4
+accelerate
+langchain-community
+langchain-ollama

@@ -1,0 +1,14 @@
+# Ignore the environment file (contains secrets)
+.env
+
+# Ignore auto-generated portrait images
+portraits/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore the virtual environment folder
+.venv/
+
+db/

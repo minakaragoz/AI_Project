@@ -1,0 +1,43 @@
+# Simplified DnD Character Appearance Prompts
+
+## Fighter
+A human fighter wearing chainmail, holding a sword and shield.
+
+## Wizard
+An elf wizard in blue robes, holding a wooden staff with a crystal.
+
+## Rogue
+A sneaky rogue in dark leather armor, holding two daggers.
+
+## Cleric
+A dwarf cleric in silver armor, with a glowing holy symbol.
+
+## Bard
+A half-elf bard with a lute, wearing colorful clothes and a feathered hat.
+
+## Paladin
+A noble paladin in gold armor, standing proudly with a longsword.
+
+## Ranger
+An elf ranger with a bow and green cloak, standing in the woods.
+
+## Barbarian
+A muscular orc barbarian with a big axe and animal fur armor.
+
+## Sorcerer
+A tiefling sorcerer with glowing hands and red robes.
+
+## Warlock
+A mysterious warlock in a dark cloak, holding a spellbook.
+
+## Druid
+A druid with leaves in their hair, wearing simple robes and holding a staff.
+
+## Monk
+A monk in loose clothes, standing in a martial arts pose.
+
+## Artificer
+A gnome artificer with tools, goggles, and a small glowing device.
+
+## Blood Hunter
+A human blood hunter with red eyes and a dark coat, holding a strange blade.
